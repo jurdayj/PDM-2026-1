@@ -1,5 +1,5 @@
 # PDM-2026-1
-Aquí están situadas las resoluciones de los cuatro ejercicios de la Práctica 1, las cuales sirven como introducción a este nuevo lenguaje
+Este repositorio se situan todas las actividades realizadas en el curso Programación para Dispositivos Móviles (ING-VI), en la cual actualmente solo se sitúan las resoluciones de los cuatro ejercicios de la primera actividad (Práctica 1), las cuales sirven como introducción a este nuevo lenguaje
 
 Contenido:
 - Ejercicio1.kt: Evaluación Empleados
