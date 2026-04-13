@@ -14,8 +14,9 @@ Práctica 2
 - Ejercicio2.kt: Figuras
 - Ejercicio3.kt: Sistema de Gestión de Biblioteca
 
-Cómo ejecutarlos:
-Se tiene que abrir los archivos en IntelliJ IDEA y ejecutarlos
+Práctica 3
+. Ejercicio1.kt
+- Ejercicio2.kt
 
 Enlace del repositorio:
 https://github.com/jurdayj/PDM-2026-1
