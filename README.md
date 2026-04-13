@@ -15,7 +15,7 @@ Práctica 2
 - Ejercicio3.kt: Sistema de Gestión de Biblioteca
 
 Práctica 3
-. Ejercicio1.kt
+- Ejercicio1.kt
 - Ejercicio2.kt
 
 Enlace del repositorio:
