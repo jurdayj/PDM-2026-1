@@ -18,5 +18,11 @@ Práctica 3
 - Ejercicio1.kt
 - Ejercicio2.kt
 
+Práctica Flutter
+- main.dart
+- pantalla_inicio.dart
+- pantalla_perfil.dart
+- pantalla_hobbies.dart
+
 Enlace del repositorio:
 https://github.com/jurdayj/PDM-2026-1
